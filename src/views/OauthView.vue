@@ -39,7 +39,7 @@ export default {
                     'client_id': '3c4ba9cc89263b9e66bca4c176a4eaf3',
                     'client_secret': '8orFiiKOUqaaP5N1fbwfARNMmIuPpJCG',
                     'code': authCode,
-                    'redirect_uri': 'http://127.0.0.1:5173/callback'
+                    'redirect_uri': 'http://localhost:5173/callback'
                 })
             })
             .then((response) => {
